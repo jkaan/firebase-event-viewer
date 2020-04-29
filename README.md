@@ -20,7 +20,7 @@ allprojects {
 
 Add this to your app build.gradle:
 
-`implementation 'com.jkaan:firebase-events-viewer:(insert latest version)'`
+`implementation 'com.github.jkaan:firebase-event-viewer:(insert latest version)'`
 
 ## Usage
 
