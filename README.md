@@ -8,7 +8,17 @@ Shows events that are triggered with Firebase in the app while they happen in a 
 
 ## Installation
 
-Add this to your build.gradle:
+Add this to your root build.gradle:
+```
+allprojects {
+ 	repositories {
+ 		...
+ 		maven { url 'https://jitpack.io' }
+    }
+}
+```
+
+Add this to your app build.gradle:
 
 `implementation 'com.jkaan:firebase-events-viewer:(insert latest version)'`
 
