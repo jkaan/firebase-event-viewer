@@ -1,7 +1,7 @@
 # Firebase Events Viewer
 
 <p align="center">
-  <img src="assets/analytics.png?raw=true" alt="logo firebase events viewer"  width="250px"/>
+  <img src="assets/logo.png?raw=true" alt="logo events viewer"  width="250px"/>
 </p>
 
 Shows events that are triggered with Firebase in the app while they happen in a notification.
@@ -20,7 +20,7 @@ allprojects {
 
 Add this to your app build.gradle:
 
-`implementation 'com.github.jkaan:firebase-event-viewer:(insert latest version)'`
+`implementation 'com.github.jkaan:firebase-event-viewer:0.1.0'`
 
 ## Usage
 
