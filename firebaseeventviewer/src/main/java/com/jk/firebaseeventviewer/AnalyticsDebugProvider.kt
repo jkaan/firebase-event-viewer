@@ -45,7 +45,7 @@ class AnalyticsDebugProvider : ContentProvider() {
                                 context,
                                 NOTIFICATION_CHANNEL
                             )
-                                .setSmallIcon(R.drawable.ic_firebase)
+                                .setSmallIcon(R.drawable.ic_analytics)
                                 .setContentTitle("Firebase Events")
                                 .setContentText(bundle)
                                 .setSubText(eventName)
