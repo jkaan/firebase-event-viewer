@@ -1,7 +1,7 @@
 # Firebase Events Viewer
 
 <p align="center">
-  <img src="assets/analytics.png?raw=true" alt="logo firebase events viewer"  width="250px"/>
+  <img src="assets/logo.png?raw=true" alt="logo events viewer"  width="250px"/>
 </p>
 
 Shows events that are triggered with Firebase in the app while they happen in a notification.
